@@ -63,5 +63,4 @@ The frontend was developed using FlutterFlow. Since the project was built within
 
 ## 👩‍💻 Team
 
-**Riya Raheja**
-**Kritika Garg**
+**TechDuo**
